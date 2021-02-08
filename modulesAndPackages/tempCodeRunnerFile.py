@@ -1,0 +1,1 @@
+sample = sub1.printAnything("Bastard")
